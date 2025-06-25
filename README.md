@@ -1,11 +1,63 @@
-<h1 align="center">Hi 👋, I'm Yasaman</h1>
-<h3 align="center">A passionate Artificial Intelligence student</h3>
+# 👋 Hi, I’m Yasaman Hosseini
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jazzzbot&label=Profile%20views&color=0e75b6&style=flat" alt="jazzzbot" /> </p>
+🎓 **AI Student | Girl in STEM | Future Researcher**  
+Currently studying **Artificial Intelligence** at Deggendorf Institute of Technology with a solid foundation in **Applied Mathematics** from Amirkabir University of Technology. Passionate about AI — especially in **machine learning**, **computer vision**, and **natural language processing**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazzzbot" alt="jazzzbot" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Computer Vision, Natural Language Processing, Machine Learning**
+## 💻 Current Projects
+
+- 🌐 **Titanic ML Web App – Software Engineering Project**  
+  Building a full-stack web application that predicts Titanic passenger survival based on user input.  
+  Features include multiple model selection (e.g., logistic regression, random forest), login system, saved predictions, and customizable parameters.  
+  → Tech stack: Python, scikit-learn, Flask, HTML/CSS, SQLite
+
+- 🤖 **Makeup Recommendation Chatbot – Assistance Systems Project**  
+  Using a Kaggle dataset to analyze user preferences and product attributes.  
+  Developing a chatbot with Rasa that gives personalized makeup recommendations via intent recognition and slot-filling logic.  
+  → Tools: Rasa, Python, pandas, NLU/NLG pipelines
+
+- 🛣️ **Improve Lane Detection in AV – Computer Vision Project**  
+  Enhancing traditional lane detection with deep learning components to increase robustness under variable lighting and road conditions.  
+  Combines OpenCV techniques (Canny, Hough, perspective transform) with CNN-based segmentation.  
+  → Tools: OpenCV, PyTorch, NumPy, dashcam footage
+---
+
+## 🧠 Technical Stack & Tools
+
+**Languages & Frameworks:**  
+Python · PyTorch · scikit-learn · OpenCV · SQL · C++ · MATLAB · R · HTML/CSS  
+
+**AI & ML:**  
+Machine Learning · Deep Learning · Computer Vision · NLP · Transformers · LangChain  
+
+**Tools & Libraries:**  
+Jupyter · VSCode · Git · Dreamweaver · Adobe Suite (Photoshop, Illustrator) · Streamlit  
+
+---
+
+## 📚 My Learning Path
+
+With a math-heavy background, my academic training spans across:
+
+- **Mathematics:** Linear Algebra, Calculus, Probability, Statistics  
+- **CS Fundamentals:** Algorithms, Data Structures, Operating Systems, Databases  
+- **AI Core:** Machine Learning, Deep Learning, Computer Vision, NLP, Autonomous Robotics  
+
+I love connecting math with practical applications.
+
+---
+
+## 🌱 Goals
+
+- Dive deeper into **applied AI research**  
+- Contribute to **responsible, ethical technology**  
+- Empower other women in STEM by staying loud, visible, and curious  
+- Keep learning, stay weird, and make cool stuff
+
+---
+
+💡 Always open to learning, collaborating, and sharing ideas!
 
 - 📫 How to reach me **Yasaman.hoseyni@gmail.com**
 
