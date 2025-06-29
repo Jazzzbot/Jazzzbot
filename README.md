@@ -3,7 +3,7 @@
 - 💡 Always open to learning, collaborating, and sharing ideas!
 - 📫 How to reach me: [Email Address](yasaman.hoseyni@gmail.com)
 - 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yaasaman-hosseini) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaasaman-hosseini) 
 - 😄 Pronouns: She/Her
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzzbot&size_weight=0.5&count_weight=0.5&layout=donut&theme=dark"></p>
