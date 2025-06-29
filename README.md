@@ -4,7 +4,6 @@
   <li>🌱 Currently studying **Artificial Intelligence** at Deggendorf Institute of Technology with a solid foundation in **Applied Mathematics** from Amirkabir University of Technology.</li>
   <li>💡 Always open to learning, collaborating, and sharing ideas!</li>
   <li>📫 How to reach me: yasaman.hoseyni@gmail.com</li>
-  <li>🌐 Socials: [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/yaasaman-hosseini)</li>
   <li>😄 Pronouns: She/Her</li>
 </ul>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzzbot&size_weight=0.5&count_weight=0.5&layout=donut&theme=dark"></p>
