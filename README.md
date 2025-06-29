@@ -1,11 +1,11 @@
-<ul>
-  <li>👋 Hi, I’m Yasaman</li>
-  <li>👀 I’m fluent in MATLAB, C#, C++, Java Processing, Fortran, python, javascript, HTML5, CSS3, (and little bit of TypeScript)</li>
-  <li>🌱 Currently studying **Artificial Intelligence** at Deggendorf Institute of Technology with a solid foundation in **Applied Mathematics** from Amirkabir University of Technology.</li>
-  <li>💡 Always open to learning, collaborating, and sharing ideas!</li>
-  <li>📫 How to reach me: yasaman.hoseyni@gmail.com</li>
-  <li>😄 Pronouns: She/Her</li>
-</ul>
+# 👋 Hi, I’m Yasaman
+## 🌱 Currently studying **Artificial Intelligence** at Deggendorf Institute of Technology with a solid foundation in **Applied Mathematics** from Amirkabir University of Technology.
+## 💡 Always open to learning, collaborating, and sharing ideas!
+## 📫 How to reach me: [Email Address](yasaman.hoseyni@gmail.com)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yaasaman-hosseini) 
+## 😄 Pronouns: She/Her
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzzbot&size_weight=0.5&count_weight=0.5&layout=donut&theme=dark"></p>
 
 ---
