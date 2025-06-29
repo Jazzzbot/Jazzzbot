@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasaman
 - 🌱 Currently studying **Artificial Intelligence** at Deggendorf Institute of Technology with a solid foundation in **Applied Mathematics** from Amirkabir University of Technology.
 - 💡 Always open to learning, collaborating, and sharing ideas!
-- 📫 How to reach me: [Email Address](yasaman.hoseyni@gmail.com)
+- 📫 How to reach me: [Email Address](yasaman.hoseyni@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yasaman.hoseyni@gmail.com)
 - 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaasaman-hosseini) 
 - 😄 Pronouns: She/Her
