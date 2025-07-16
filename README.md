@@ -26,15 +26,10 @@ Jupyter · VSCode · Git · Dreamweaver · Adobe Suite (Photoshop, Illustrator) 
 
 - 🌐 **Titanic ML Web App – Software Engineering Project**  
   Building a full-stack web application that predicts Titanic passenger survival based on user input.  
-  Features include multiple model selection (e.g., logistic regression, random forest), login system, saved predictions, and customizable parameters.  
+  Features include multiple model selection (e.g., logistic regression, random forest), a login system, saved predictions, and customizable parameters.  
   → Tech stack: Python, scikit-learn, Flask, HTML/CSS, SQLite
 
 - 🤖 **Makeup Recommendation Chatbot – Assistance Systems Project**  
   Using a Kaggle dataset to analyze user preferences and product attributes.  
   Developing a chatbot with Rasa that gives personalized makeup recommendations via intent recognition and slot-filling logic.  
   → Tools: Rasa, Python, pandas, NLU/NLG pipelines
-
-- 🛣️ **Improve Lane Detection in AV – Computer Vision Project**  
-  Enhancing traditional lane detection with deep learning components to increase robustness under variable lighting and road conditions.  
-  Combines OpenCV techniques (Canny, Hough, perspective transform) with CNN-based segmentation.  
-  → Tools: OpenCV, PyTorch, NumPy, dashcam footage
